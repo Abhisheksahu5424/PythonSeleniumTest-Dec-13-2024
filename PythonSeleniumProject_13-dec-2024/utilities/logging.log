@@ -1,0 +1,24 @@
+2024-12-13 01:45:40,961 :INFO : test_e2e : Getting All Products...!!!
+2024-12-13 01:45:41,075 :INFO : test_e2e : iphone X
+2024-12-13 01:45:41,096 :INFO : test_e2e : Samsung Note 8
+2024-12-13 01:45:41,115 :INFO : test_e2e : Nokia Edge
+2024-12-13 01:45:41,134 :INFO : test_e2e : Blackberry
+2024-12-13 01:45:41,275 :INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="1a16c23952f51d7564196aadb989a02d", element="f.D9FFDB9694BDD1A6CCE713FF1B135860.d.2C0D87B6FE94D0E135D9E248EA258862.e.67")>
+2024-12-13 01:47:08,776 :INFO : test_form_submission : First Name is Abhishek
+2024-12-13 01:47:14,309 :INFO : test_form_submission : First Name is Abhi
+2024-12-13 01:47:14,309 :INFO : test_form_submission : First Name is Abhi
+2024-12-13 01:47:21,762 :INFO : test_e2e : Getting All Products...!!!
+2024-12-13 01:47:21,885 :INFO : test_e2e : iphone X
+2024-12-13 01:47:21,904 :INFO : test_e2e : Samsung Note 8
+2024-12-13 01:47:21,922 :INFO : test_e2e : Nokia Edge
+2024-12-13 01:47:21,939 :INFO : test_e2e : Blackberry
+2024-12-13 01:47:22,075 :INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="f31864b5576c26eb03ac2b6e96a72a9e", element="f.3B27B434FB8507F71A80D5BBE7E76A15.d.11BEF4B1CB64D63A00A4B6BE11406746.e.71")>
+2024-12-13 01:48:48,896 :INFO : test_form_submission : First Name is Abhishek
+2024-12-13 01:48:54,454 :INFO : test_form_submission : First Name is Abhi
+2024-12-13 01:48:54,454 :INFO : test_form_submission : First Name is Abhi
+2024-12-13 01:49:01,930 :INFO : test_e2e : Getting All Products...!!!
+2024-12-13 01:49:02,039 :INFO : test_e2e : iphone X
+2024-12-13 01:49:02,060 :INFO : test_e2e : Samsung Note 8
+2024-12-13 01:49:02,077 :INFO : test_e2e : Nokia Edge
+2024-12-13 01:49:02,095 :INFO : test_e2e : Blackberry
+2024-12-13 01:49:02,235 :INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="a1f992adb9ceaefea9f356d06bf9a7dc", element="f.FA3F84BDB701E95631C98881D23DBE37.d.607C8F0D70352D672C058FAC579ABFE0.e.67")>

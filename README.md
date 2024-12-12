@@ -44,6 +44,7 @@ This project is an end-to-end automation testing framework using Python, **pytes
     └── __pycache__
         ├── BaseClass.cpython-310.pyc
         └── __init__.cpython-310.pyc
+        
 ---
 
 ## Directory Overview

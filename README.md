@@ -3,39 +3,38 @@ Project Name
 This project is an end-to-end automation testing framework using Python, pytest, and Selenium. The framework is structured to support modular test case creation, reporting, and logging. It is organized into directories for page objects, test data, test cases, reports, and utility functions.
 
 Project Structure
-bash
-Copy code
+.
 ├── PageObjects
-│   ├── CheckoutPage.py
-│   ├── ConfirmPage.py
-│   ├── HomePage.py
-│   ├── __init__.py
-│   └── __pycache__
-│       ├── CheckoutPage.cpython-310.pyc
-│       ├── ConfirmPage.cpython-310.pyc
-│       ├── HomePage.cpython-310.pyc
-│       └── __init__.cpython-310.pyc
+│   ├── CheckoutPage.py
+│   ├── ConfirmPage.py
+│   ├── HomePage.py
+│   ├── __init__.py
+│   └── __pycache__
+│       ├── CheckoutPage.cpython-310.pyc
+│       ├── ConfirmPage.cpython-310.pyc
+│       ├── HomePage.cpython-310.pyc
+│       └── __init__.cpython-310.pyc
 ├── reports
-│   ├── assets
-│   │   └── style.css
-│   ├── __init__.py
-│   └── reports.html
+│   ├── assets
+│   │   └── style.css
+│   ├── __init__.py
+│   └── reports.html
 ├── TestData
-│   ├── HomePageData.py
-│   ├── __init__.py
-│   └── __pycache__
-│       ├── HomePageData.cpython-310.pyc
-│       └── __init__.cpython-310.pyc
+│   ├── HomePageData.py
+│   ├── __init__.py
+│   └── __pycache__
+│       ├── HomePageData.cpython-310.pyc
+│       └── __init__.cpython-310.pyc
 ├── tests
-│   ├── conftest.py
-│   ├── __init__.py
-│   ├── __pycache__
-│   │   ├── conftest.cpython-310-pytest-8.3.4.pyc
-│   │   ├── __init__.cpython-310.pyc
-│   │   ├── test_e2e.cpython-310-pytest-8.3.4.pyc
-│   │   └── test_Home_Page.cpython-310-pytest-8.3.4.pyc
-│   ├── test_e2e.py
-│   └── test_Home_Page.py
+│   ├── conftest.py
+│   ├── __init__.py
+│   ├── __pycache__
+│   │   ├── conftest.cpython-310-pytest-8.3.4.pyc
+│   │   ├── __init__.cpython-310.pyc
+│   │   ├── test_e2e.cpython-310-pytest-8.3.4.pyc
+│   │   └── test_Home_Page.cpython-310-pytest-8.3.4.pyc
+│   ├── test_e2e.py
+│   └── test_Home_Page.py
 └── utilities
     ├── BaseClass.py
     ├── __init__.py
@@ -43,6 +42,8 @@ Copy code
     └── __pycache__
         ├── BaseClass.cpython-310.pyc
         └── __init__.cpython-310.pyc
+
+        
 Directory Overview
 PageObjects/
 This directory contains the Page Object Model (POM) classes, which represent the various pages in the application under test. Each file corresponds to a page, with methods for interacting with elements on that page.

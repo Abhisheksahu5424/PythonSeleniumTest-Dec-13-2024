@@ -5,6 +5,10 @@ This project is an end-to-end automation testing framework using Python, **pytes
 ---
 
 ## Project Structure
+. ├── PageObjects │ ├── CheckoutPage.py │ ├── ConfirmPage.py │ ├── HomePage.py │ ├── init.py │ └── pycache │ ├── CheckoutPage.cpython-310.pyc │ ├── ConfirmPage.cpython-310.pyc │ ├── HomePage.cpython-310.pyc │ └── init.cpython-310.pyc ├── reports │ ├── assets │ │ └── style.css │ ├── init.py │ └── reports.html ├── TestData │ ├── HomePageData.py │ ├── init.py │ └── pycache │ ├── HomePageData.cpython-310.pyc │ └── init.cpython-310.pyc ├── tests │ ├── conftest.py │ ├── init.py │ ├── pycache │ │ ├── conftest.cpython-310-pytest-8.3.4.pyc │ │ ├── init.cpython-310.pyc │ │ ├── test_e2e.cpython-310-pytest-8.3.4.pyc │ │ └── test_Home_Page.cpython-310-pytest-8.3.4.pyc │ ├── test_e2e.py │ └── test_Home_Page.py └── utilities ├── BaseClass.py ├── init.py ├── logging.log └── pycache ├── BaseClass.cpython-310.pyc └── init.cpython-310.pyc
+
+javascript
+Copy code
 
 
 ---
